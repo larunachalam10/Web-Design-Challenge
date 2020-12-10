@@ -66,6 +66,19 @@
     height: auto;
   }
   
+  .skyblue {
+    background: deepskyblue;
+  }
+  
+  .purple {
+    background: rebeccapurple;
+  }
+  
+  .red {
+    background: indianred;
+  }
+
+  
   h2 {
     color: #5bc0de;
     font-style: italic;
